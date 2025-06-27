@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+id btnAdd
+id btnSave
+id editAmount
+id editNote
+id listView
+id radioExpense
+id radioGroupType
+id radioIncome
+id totalBalance
+layout activity_add_transaction
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name

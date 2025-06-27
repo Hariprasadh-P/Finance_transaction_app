@@ -1,0 +1,24 @@
+com.example.financemanager.app-constraintlayout-2.1.4-0 C:\Users\php13\.gradle\caches\8.10\transforms\08cb57cbbc6cb421008800a25907e781\transformed\constraintlayout-2.1.4\res
+com.example.financemanager.app-lifecycle-runtime-2.5.1-1 C:\Users\php13\.gradle\caches\8.10\transforms\1253e9c6343dcbb9a9652b7d5d3dd63c\transformed\lifecycle-runtime-2.5.1\res
+com.example.financemanager.app-jetified-activity-1.6.0-2 C:\Users\php13\.gradle\caches\8.10\transforms\15b853ee19e4b50f77a13a588adf7bae\transformed\jetified-activity-1.6.0\res
+com.example.financemanager.app-jetified-emoji2-1.2.0-3 C:\Users\php13\.gradle\caches\8.10\transforms\24b7c3f3138b04f11e2ff44260c6b2db\transformed\jetified-emoji2-1.2.0\res
+com.example.financemanager.app-jetified-appcompat-resources-1.6.1-4 C:\Users\php13\.gradle\caches\8.10\transforms\37c74b531912a46b14b0b95f4d723fbf\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.financemanager.app-appcompat-1.6.1-5 C:\Users\php13\.gradle\caches\8.10\transforms\3a78611ffedb0df55d19b2aa403a6291\transformed\appcompat-1.6.1\res
+com.example.financemanager.app-lifecycle-viewmodel-2.5.1-6 C:\Users\php13\.gradle\caches\8.10\transforms\3fc6b689e0c918209bdef7dcc1c9f0e5\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.financemanager.app-lifecycle-livedata-core-2.5.1-7 C:\Users\php13\.gradle\caches\8.10\transforms\42d046ba99d8972c07deeab34a1cb83e\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.financemanager.app-jetified-annotation-experimental-1.3.0-8 C:\Users\php13\.gradle\caches\8.10\transforms\72d9f5b00de9a557a54045e50220ca4a\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.financemanager.app-jetified-core-ktx-1.9.0-9 C:\Users\php13\.gradle\caches\8.10\transforms\7cc8f9b9d5e9deb5ee07e761d9ba1e14\transformed\jetified-core-ktx-1.9.0\res
+com.example.financemanager.app-jetified-savedstate-1.2.0-10 C:\Users\php13\.gradle\caches\8.10\transforms\87ea242cebc9c60a872a4eda0ab02ee1\transformed\jetified-savedstate-1.2.0\res
+com.example.financemanager.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-11 C:\Users\php13\.gradle\caches\8.10\transforms\9602d9e94f3a5981102c4992d0222352\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.financemanager.app-core-1.9.0-12 C:\Users\php13\.gradle\caches\8.10\transforms\d80ab0fa23fadfbde1dc482c7b17b991\transformed\core-1.9.0\res
+com.example.financemanager.app-jetified-lifecycle-process-2.4.1-13 C:\Users\php13\.gradle\caches\8.10\transforms\dbc4875187d5e472c8853f24a3f76b6a\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.financemanager.app-fragment-1.3.6-14 C:\Users\php13\.gradle\caches\8.10\transforms\e6c5714053c292a100e0efd9daac2539\transformed\fragment-1.3.6\res
+com.example.financemanager.app-jetified-emoji2-views-helper-1.2.0-15 C:\Users\php13\.gradle\caches\8.10\transforms\f1080c922c7710f0172b43ed337a1858\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.financemanager.app-jetified-startup-runtime-1.1.1-16 C:\Users\php13\.gradle\caches\8.10\transforms\fc187de57f352ec97b58ced4637f87a5\transformed\jetified-startup-runtime-1.1.1\res
+com.example.financemanager.app-pngs-17 C:\Users\php13\Downloads\FinanceManagerApp (4)\app\build\generated\res\pngs\debug
+com.example.financemanager.app-resValues-18 C:\Users\php13\Downloads\FinanceManagerApp (4)\app\build\generated\res\resValues\debug
+com.example.financemanager.app-packageDebugResources-19 C:\Users\php13\Downloads\FinanceManagerApp (4)\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.financemanager.app-packageDebugResources-20 C:\Users\php13\Downloads\FinanceManagerApp (4)\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.financemanager.app-merged_res-21 C:\Users\php13\Downloads\FinanceManagerApp (4)\app\build\intermediates\merged_res\debug
+com.example.financemanager.app-debug-22 C:\Users\php13\Downloads\FinanceManagerApp (4)\app\src\debug\res
+com.example.financemanager.app-main-23 C:\Users\php13\Downloads\FinanceManagerApp (4)\app\src\main\res
